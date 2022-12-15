@@ -1,2 +1,5 @@
 # data-profession-survey
-![Data Proffession](/images/data-profession.PNG "Data Visualization ")
+- Power BI Visualisation
+![Data Proffession](/data_professional_survey/images/data-proffession.PNG "Data Visualization ")
+
+
